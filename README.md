@@ -76,6 +76,12 @@ By combining clean UI, interactive elements, and real-time logic, the Interactiv
 
 #OUTPUT
 
+<img width="1899" height="842" alt="Image" src="https://github.com/user-attachments/assets/1925de74-e921-425b-850e-53234f4761b3" />
+
+<img width="1899" height="843" alt="Image" src="https://github.com/user-attachments/assets/f9199ade-4cfe-4085-8b67-e79ac462b907" />
+
+<img width="1898" height="838" alt="Image" src="https://github.com/user-attachments/assets/64fdd54d-994d-4e32-a4c0-c8675288ad1a" />
+
 
 
 
